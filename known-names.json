@@ -54,6 +54,221 @@
             "md"
           ]
         }
+      },
+      {
+        "search": [
+          "Mihai Viteazul",
+          "Mihai Viteazu"
+        ],
+        "known": {
+          "name": "Mihai Viteazul",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Constantin Brâncuși",
+          "Constantin Brancusi"
+        ],
+        "known": {
+          "name": "Constantin Brâncuși",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Vlad Țepeș",
+          "Vlad Tepes"
+        ],
+        "known": {
+          "name": "Vlad Țepeș",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Ion Luca Caragiale",
+          "Ion L. Caragiale",
+          "I. L. Caragiale"
+        ],
+        "known": {
+          "name": "Ion Luca Caragiale",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Nicolae Iorga"
+        ],
+        "known": {
+          "name": "Nicolae Iorga",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Constantin Brâncoveanu",
+          "Constantin Brancoveanu"
+        ],
+        "known": {
+          "name": "Constantin Brâncoveanu",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "George Enescu"
+        ],
+        "known": {
+          "name": "George Enescu",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Nicolae Titulescu"
+        ],
+        "known": {
+          "name": "Nicolae Titulescu",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Ion Creangă",
+          "Ion Creanga"
+        ],
+        "known": {
+          "name": "Ion Creangă",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Lucian Blaga"
+        ],
+        "known": {
+          "name": "Lucian Blaga",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Mihail Kogălniceanu",
+          "Mihail Kogalniceanu"
+        ],
+        "known": {
+          "name": "Mihail Kogălniceanu",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Dimitrie Cantemir"
+        ],
+        "known": {
+          "name": "Dimitrie Cantemir",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Mircea cel Bătrân",
+          "Mircea cel Bătran"
+        ],
+        "known": {
+          "name": "Mircea cel Bătrân",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Titu Maiorescu"
+        ],
+        "known": {
+          "name": "Titu Maiorescu",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Nicolae Bălcescu",
+          "Nicolae Balcescu"
+        ],
+        "known": {
+          "name": "Nicolae Bălcescu",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Eugen Ionescu"
+        ],
+        "known": {
+          "name": "Eugen Ionescu",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
+      },
+      {
+        "search": [
+          "Maria Tănase",
+          "Maria Tanase"
+        ],
+        "known": {
+          "name": "Maria Tănase",
+          "countryCodes": [
+            "ro",
+            "md"
+          ]
+        }
       }
     ],
     "countries": {
