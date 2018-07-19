@@ -1,6 +1,6 @@
 {
   "name": "@textactor/known-names",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Textactor known names",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",
