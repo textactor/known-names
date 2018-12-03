@@ -16,3 +16,7 @@ test('ro (Moscovei)', t => {
 test('ro (Ștefan cel Mare) countryCodes', t => {
     t.deepEqual(knownName.getKnownName('Ștefan cel Mare', 'ro', 'md').countryCodes, ['ro', 'md']);
 });
+
+test('en-in Parliament', t => {
+    t.deepEqual(knownName.getKnownName('Parliament', 'en', 'in').name, 'Parliament of India');
+});

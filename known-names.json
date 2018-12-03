@@ -382,5 +382,40 @@
         }
       }
     ]
+  },
+  "bg": {
+    "items": [
+      {
+        "search": [
+          "Свети Георги"
+        ],
+        "known": {
+          "name": "Георги Победоносец"
+        }
+      }
+    ]
+  },
+  "en": {
+    "countries": {
+      "in": [
+        {
+          "search": [
+            "Parliament"
+          ],
+          "known": {
+            "name": "Parliament of India"
+          }
+        },
+        {
+          "search": [
+            "Congress",
+            "Congress Party"
+          ],
+          "known": {
+            "name": "Indian National Congress"
+          }
+        }
+      ]
+    }
   }
 }
