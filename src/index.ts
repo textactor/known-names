@@ -1,2 +1,1 @@
-
-export { IKnownNameService, KnownNameService } from './knownNameService';
+export { IKnownNameService, KnownNameService } from "./knownNameService";
